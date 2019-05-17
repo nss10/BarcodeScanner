@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarCode Scanner</string>
+    <string name="scan_text">Click to Scan</string>
+</resources>
